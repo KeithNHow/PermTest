@@ -1,8 +1,8 @@
 {
   "id": "ca888236-0888-491b-b2cd-f5ada8bc538b",
   "name": "PermTest",
-  "publisher": "Keith How",
-  "version": "1.0.0.0",
+  "publisher": "KeithHow",
+  "version": "27.0.0.0",
   "brief": "Permissions Test",
   "description": "Permissions Test",
   "privacyStatement": "",
@@ -12,8 +12,8 @@
   "logo": "",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "25.0.0.0",
+  "platform": "27.0.0.0",
+  "application": "27.0.0.0",
   "idRanges": [
     {
       "from": 51200,
@@ -25,5 +25,5 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
-  "runtime": "14.0"
+  "runtime": "16.0"
 }
